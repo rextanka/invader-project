@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAB3dwAAAAAAcHd3AAAAAABwd3cAAAAAAHB3dwAAAAAAcHd3AAAAAABwd3cAAAAAcHd3dwAAAAB3d3d3AAAAAHd3d3cAAAAAcHd3dwAAAAAAcHd3AAAAAABwd3cAAAAAAHB3dwAAAAAAcHd3AAAAAABwd3cAAAAAAAB3dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "missileBase"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
