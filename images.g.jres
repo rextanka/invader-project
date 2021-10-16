@@ -4,6 +4,46 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "missileBase"
     },
+    "image2": {
+        "data": "hwQMAAgAAAAAAAAAAAAAAABwB3AAdwcHcAd3cHd3Bwd3dwcHcAd3cAB3BwcAcAdwAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "inv0_0"
+    },
+    "image4": {
+        "data": "hwQMAAgAAAAAAAAAAAB3BwBwBwAHd3dwcAd3BwB3dwAAd3cAcAd3Bwd3d3AAcAcAAAB3BwAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "inv1_0"
+    },
+    "image3": {
+        "data": "hwQMAAgAAAAAAAAAAAAAAABwBwAAdwcHcAd3cHd3BwB3dwcAcAd3cAB3BwcAcAcAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "inv0_1"
+    },
+    "image5": {
+        "data": "hwQMAAgAAAAAAAAAAAB3BwBwBwAAd3dwcHdwdwB3dwAAd3cAcHdwdwB3d3AAcAcAAAB3BwAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "inv1_1"
+    },
+    "image7": {
+        "data": "hwQMAAgAAAAAAAAAAAB3BwBwBwAHd3cHcAd3cAB3d3AAd3cAAHd3cHAHd3AHd3cHAHAHAAAAdwc=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "inv2_1"
+    },
+    "image8": {
+        "data": "hwQMAAgAAAAAdwcAcHcHAHB3BwdwB3dwdwd3AHd3Bwd3dwcHdwd3AHAHd3BwdwcHcHcHAAB3BwA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "inv3_1"
+    },
+    "image6": {
+        "data": "hwQMAAgAAAAAAAAAAHcHAABwBwAHd3dwcAd3BwB3dwAAd3cAAHd3AHAHdwcHd3dwAHAHAAB3BwA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "inv2_0"
+    },
+    "image9": {
+        "data": "hwQMAAgAAAAAdwdwcHcHcHB3BwdwB3cHdwd3AHd3Bwd3dwcHdwd3AHAHdwdwdwcHcHcHcAB3B3A=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "inv3_0"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
